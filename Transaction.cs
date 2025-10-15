@@ -20,9 +20,9 @@ namespace PersonalBudgetTracker
             Date = date;
             Category = category;
         }
-        public void Showinfo()
+        public void Showinfo()              //metod för att visa transaktionsdetaljer
         {
-            Console.ForegroundColor = Amount < 0 ? ConsoleColor.Red : ConsoleColor.Green;
+            Console.ForegroundColor = Amount < 0 ? ConsoleColor.Red : ConsoleColor.Green;       //Röd för utgifter, grön för inkomster
             Console.WriteLine($"{Date.ToShortDateString()} - {Description}: {Amount:C} [{Category}]");
             Console.ResetColor();
         }
