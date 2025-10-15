@@ -1,0 +1,7 @@
+ 1️⃣ Hur hjälpte klasser och metoder dig att organisera programmet?
+Det va mycket hjälpsam. Det gör att man tänker snabbare för att det är mindre krångel och man har sina saker organiserad.
+Klass diagram hjälpte sjukt mycket också att veta i förväg va man ska göra sen gör kod processen snabbare.
+
+ 3️⃣ Vilken del av projektet var mest utmanande?
+klassen BudgetManager va svårt att skriva kod även om man hade planer innan då ska man skriva metoder får dom att fungera.
+List va också lite kruligt för att vi lärde oss den nyss och har inte mycket kunskap.
